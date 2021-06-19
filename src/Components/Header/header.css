@@ -1,0 +1,26 @@
+.header{
+    height : 5vh ;
+    display: flex;
+    justify-content: space-around; 
+    padding: 4px;
+}
+
+.logo img{
+height:100% ;
+width: 100%;
+}
+.logo{
+    height:80% ;
+    width: 25% ;
+}
+.search-btn{
+    border: none;
+    height: 80%;
+    width:40% ;
+}
+.search-movies{
+    text-align: center;
+    background-color: rgba(169, 169, 169, 0.329);
+    color: beige;
+    outline: none;
+}
