@@ -1,7 +1,7 @@
 .header{
     height : 5vh ;
     display: flex;
-    justify-content: space-around; 
+    justify-content :space-evenly ; 
     padding: 4px;
 }
 
@@ -14,11 +14,15 @@ width: 100%;
     width: 25% ;
 }
 .search-btn{
+    
     border: none;
     height: 80%;
-    width:40% ;
+    width:10% ;
 }
 .search-movies{
+    
+    height: 100%;
+    width: 100%;
     text-align: center;
     background-color: rgba(169, 169, 169, 0.329);
     color: beige;
